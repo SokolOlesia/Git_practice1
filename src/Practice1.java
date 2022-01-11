@@ -9,4 +9,7 @@ public class Practice1 {
     //com4
 
     //dxfcghjkl;
+    public static void main(String[] args) {
+        System.out.println("hello");
+    }
 }
